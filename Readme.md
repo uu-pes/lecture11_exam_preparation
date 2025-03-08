@@ -1,4 +1,4 @@
-# 1DT106 Lecture 10: Exam preparation
+# 1DT106 Lecture 11: Exam preparation
 
 This repository holds the slides for the eleventh lecture in 1DT106 Programming
 Embedded Systems at Uppsala University. 
